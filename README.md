@@ -7,6 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills:
 * REACT
+* Redux Toolkit
 * JS
 * HTML
 * CSS
